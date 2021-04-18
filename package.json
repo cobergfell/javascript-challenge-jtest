@@ -1,0 +1,15 @@
+{
+  "name": "javascript-demo-jtest",
+  "version": "1.0.0",
+  "description": "tutorial jtest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "author": "chob",
+  "license": "ISC",
+  "devDependencies": {
+    "jtest": "0.0.1"
+  }
+}
