@@ -1,4 +1,4 @@
-function compareObjects(object1,object2)
+/*function compareObjects(object1,object2)
 
 {let str1=JSON.stringify(object1);
     let str2=JSON.stringify(object2);
@@ -9,6 +9,12 @@ function compareObjects(object1,object2)
     else{
         return false
     }
+}*/
+
+
+function compareObjects(object1,object2)
+{
+// dont worry for the solution, you just have to uncomment the block above ;)
 }
 
 
